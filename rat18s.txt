@@ -1,0 +1,16 @@
+FUNCTION       
+INT            
+RETURN         
+GET            
+WHILE          
+PUT            
+BOOLEAN        
+IF             
+TRUE           
+FALSE          
+REAL           
+ENDIF          
+FOR            
+ELSE
+PRINT
+END      
